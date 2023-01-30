@@ -3,8 +3,6 @@
 
 #### I’m Currently studying a bachelors in automation and robotics at Western Norway University of Applied Sciences
 
-#### Also dabbling abit in web aplication programming
-
 <!--
 **JohannesAE/JohannesAE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
